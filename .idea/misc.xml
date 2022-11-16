@@ -7,6 +7,84 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredPathMasks">
+      <list>
+        <option value="#" />
+        <option value="Directories" />
+        <option value="#" />
+        <option value="build/" />
+        <option value="bin/" />
+        <option value="target/" />
+        <option value="libs/" />
+        <option value="tmp/" />
+        <option value="node_modules/" />
+        <option value="#" />
+        <option value="OS" />
+        <option value="Files" />
+        <option value="#" />
+        <option value=".DS_Store" />
+        <option value="*.class" />
+        <option value="#" />
+        <option value="Package" />
+        <option value="Files" />
+        <option value="#" />
+        <option value="*.jar" />
+        <option value="*.war" />
+        <option value="*.ear" />
+        <option value="*.db" />
+        <option value="rebel.xml" />
+        <option value="######################" />
+        <option value="#" />
+        <option value="Windows" />
+        <option value="######################" />
+        <option value="#" />
+        <option value="Windows" />
+        <option value="image" />
+        <option value="file" />
+        <option value="caches" />
+        <option value="Thumbs.db" />
+        <option value="#" />
+        <option value="Folder" />
+        <option value="config" />
+        <option value="file" />
+        <option value="Desktop.ini" />
+        <option value="######################" />
+        <option value="#" />
+        <option value="NetBeans" />
+        <option value="######################" />
+        <option value="nbproject/" />
+        <option value="build/" />
+        <option value="nbbuild/" />
+        <option value="dist/" />
+        <option value="nbdist/" />
+        <option value="nbactions.xml" />
+        <option value="nb-configuration.xml" />
+        <option value="######################" />
+        <option value="#" />
+        <option value="IDEA" />
+        <option value="######################" />
+        <option value="*.iml" />
+        <option value="*.ipr" />
+        <option value="*.iws" />
+        <option value=".idea/" />
+        <option value="atlassian-ide-plugin.xml" />
+        <option value="######################" />
+        <option value="#" />
+        <option value="Eclipse" />
+        <option value="######################" />
+        <option value="*.pydevproject" />
+        <option value=".project" />
+        <option value=".metadata" />
+        <option value="*.tmp" />
+        <option value="*.bak" />
+        <option value="*.swp" />
+        <option value="*~.nib" />
+        <option value="local.properties" />
+        <option value=".classpath" />
+        <option value=".settings/" />
+        <option value=".loadpath" />
+      </list>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
