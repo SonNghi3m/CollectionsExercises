@@ -105,7 +105,7 @@ public class ArrayListDemo {
         people.add(new Person(1, "test3", "test33", "test.test"));
 
         //sort by ID
-        Collections.sort(people);
+       Collections.sort(people);
         for (Person person : people) {
             System.out.println(person.getId() + " " + person.getFirstName());
         }

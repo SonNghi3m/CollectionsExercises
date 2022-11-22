@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b0386b3-d78c-4159-a74c-8459735d278d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/HashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/HashSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/TreeSetDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7b0386b3-d78c-4159-a74c-8459735d278d" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/ex3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/g45/lexicon/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g45/lexicon/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/g45/lexicon/HashSetDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/g45/lexicon/HashSetDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashMapDemo">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="g45.lexicon.ArrayListDemo" />
-      <module name="CollectionsExercises" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="g45.lexicon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ex3">
     <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="g45.lexicon.HashMapDemo" />
       <module name="CollectionsExercises" />
@@ -75,8 +59,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="g45.lexicon.HashSetDemo" />
+    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g45.lexicon.TreeSetDemo" />
+      <module name="CollectionsExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g45.lexicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g45.lexicon.ex1" />
+      <module name="CollectionsExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g45.lexicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g45.lexicon.ex2" />
+      <module name="CollectionsExercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g45.lexicon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g45.lexicon.ex3" />
       <module name="CollectionsExercises" />
       <extension name="coverage">
         <pattern>
@@ -90,9 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex3" />
+        <item itemvalue="Application.TreeSetDemo" />
+        <item itemvalue="Application.ex2" />
+        <item itemvalue="Application.ex1" />
         <item itemvalue="Application.HashMapDemo" />
-        <item itemvalue="Application.HashSetDemo" />
-        <item itemvalue="Application.ArrayListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -105,6 +130,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668421850086</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1668634123972</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668634123972</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,5 +150,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

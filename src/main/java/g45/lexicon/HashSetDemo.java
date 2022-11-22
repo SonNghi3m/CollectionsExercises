@@ -3,7 +3,7 @@ package g45.lexicon;
 import javafx.scene.effect.SepiaTone;
 
 import java.util.*;
-
+//HashSet element are unique ==> no duplicate element
 public class HashSetDemo {
     public static void main(String[] args) {
     //ex1();
